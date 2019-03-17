@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+
+# claudiaProfile
+profile
+
+
+## Developers:
+Claudia
+
+
+# TECHNOLOGY COLOPHON
+
+    KICKOFF FRAMEWORK - trykickoff.com
+    HTML
+    CSS
+    Sass
+    Grunt.js
+    BrowserSync
+    NPM
+    Browserify
